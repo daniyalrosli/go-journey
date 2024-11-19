@@ -6,9 +6,9 @@ Welcome to my Golang journey repository! This space documents my progress, proje
 🧐 Why Go?
 
 Go, also known as Golang, is an open-source programming language developed by Google. I chose to learn Go because:
-	- It’s designed for simplicity and high performance.
-	- It excels in building scalable, concurrent systems.
-	- It’s perfect for backend development, cloud applications, and DevOps tools.
+- It’s designed for simplicity and high performance.
+- It excels in building scalable, concurrent systems.
+- It’s perfect for backend development, cloud applications, and DevOps tools.
 
  📚 What I’m Learning
 
