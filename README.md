@@ -21,7 +21,7 @@ Concepts I’m Exploring:
 	•	Database Integration: Using gorm and database/sql to connect with MySQL/PostgreSQL.
 	•	Testing: Writing unit tests with the testing package.
 
- 🔨 Projects and Experiments
+ 🔨 Projects and Experiments (in progress)
 
 🚀 Simple CRUD App
 
